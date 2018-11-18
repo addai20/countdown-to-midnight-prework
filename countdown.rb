@@ -1,4 +1,3 @@
-#write your code here
-
-def countdown
+def countdown(n)
+  #write your code here  
 end
