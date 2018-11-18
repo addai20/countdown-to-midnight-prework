@@ -1,6 +1,6 @@
 def countdown(n)
    i = 1
-   
+  sleep(5)
   while i <= n
   puts "#{n} SECOND(S)!"
   n-=1
